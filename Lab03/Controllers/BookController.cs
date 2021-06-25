@@ -48,7 +48,7 @@ namespace Lab03.Controllers
             }
             catch(Exception ex)
             {
-                var a = "";
+                var a = "Anh Tuan";
             }
             
 
